@@ -5,7 +5,7 @@
     <body>
         <h1>Name: Carlos C. Jamerson Jr.</h1>
         <h2>Age: 24 (As of 2/3/25)</h2>
-        <img src="CasualCJ.jpg" alt="CasualCJ">
+        <img src="CasualCJ.jpg" alt="CasualCJ" height="300">
         <p>Hey hi, it's CJ. I'm supposed to talk about myself again i suppose so here's some random stuff.</p>
         <ul>
             <li>The alias True Discord is my pen name for my creative works.</li>
